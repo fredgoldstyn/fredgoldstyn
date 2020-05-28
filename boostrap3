@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="fr-ca">
+<head>
+    <title>exercice bootstrap 3</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="bootstrap-4.5.0-dist/css/bootstrap.css">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+    <div class="container">
+
+        <div class="row">
+            <div class="col-xl-3 column1">grosse colonne</div>
+
+
+
+
+
+                <div class="col-xl-7 column2">
+
+
+
+                    <div class="col-xl-12 column4">une autre colonne</div>
+
+
+                    <div class="col-xl-3 column5">tite colonne</div>
+                    <div class="col-xl-9 column5">tite colonne</div>
+                    <div class="col-xl-3 column5">tite colonne</div>
+                    <div class="col-xl-9 column5">tite colonne</div>
+                    <div class="col-xl-3 column5">tite colonne</div>
+                    <div class="col-xl-9 column5">tite colonne</div>
+                    <div class="col-xl-3 column5">tite colonne</div>
+                    <div class="col-xl-9 column5">tite colonne</div>
+
+
+                </div>
+
+
+
+
+
+
+
+
+
+
+
+
+            <div class="col-xl-2 column3">grosse colonne</div>
+
+        </div>
+
+    </div>
+
+
+
+
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="bootstrap-4.5.0-dist/js/bootstrap.js"></script>
+</body>
+</html>

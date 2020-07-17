@@ -1,0 +1,281 @@
+html,body { margin:0; height:100%;}
+
+.white
+{
+    background-color: white;
+}
+
+.black
+{
+    background-color: black;
+}
+
+
+#Banniere
+{
+    background-image: url("../img/background_mario_01.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: auto;
+    height: 40rem;
+    padding-top: 5%;
+    padding-bottom: 5%;
+
+
+}
+
+
+#Banniere02
+{
+    background-image: url("../img/mario_01.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+    padding-top: 30%;
+    padding-bottom: 20%;
+
+}
+
+
+h1
+{
+    color: black;
+    text-align: center;
+    font-family: LuckiestGuy-Regular;
+    font-size: 5rem;
+}
+
+h2
+{
+    color: black;
+    text-align: center;
+    font-family: LuckiestGuy-Regular;
+    font-size: 2.5rem;
+}
+
+h3
+{
+    color: black;
+    text-align: center;
+    font-family: LuckiestGuy-Regular;
+    font-size: 2rem;
+}
+
+
+h4
+{
+    color: white;
+    text-align: center;
+    font-family: Amiri-Bold;
+    font-size: 1.5rem;
+}
+
+h5
+{
+    color: white;
+    text-align: center;
+    font-family: Amiri-Bold;
+    font-size: 1rem;
+}
+
+
+
+p
+{
+    color: black;
+    font-size: 1.5rem;
+    font-family: Amiri;
+    text-align: center;
+}
+
+
+
+
+
+@font-face
+{
+    font-family: LuckiestGuy-Regular;
+    src: url("../font/LuckiestGuy-Regular.ttf");
+}
+
+@font-face
+{
+    font-family: Amiri;
+    src: url("../font/Amiri-Regular.ttf");
+}
+
+@font-face
+{
+    font-family: Amiri-Bold;
+    src: url("../font/Amiri-Bold.ttf");
+}
+
+
+
+.parallax {
+    /* L’image du Parallax */
+    background-image: url("../img/background_mario_02.png");
+    /* L’hauteur du Parallax */
+    height: 100%;
+    /* Création de l’effet */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parallax2 {
+    /* L’image du Parallax */
+    background-image: url("../img/background_mario_03.jpg");
+    /* L’hauteur du Parallax */
+    height: 100%;
+    /* Création de l’effet */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.parallax3 {
+    /* L’image du Parallax */
+    background-image: url("../img/background_smb1.png");
+    /* L’hauteur du Parallax */
+    height: 100%;
+    /* Création de l’effet */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parallax4 {
+    /* L’image du Parallax */
+    background-image: url("../img/background_smb2.jpg");
+    /* L’hauteur du Parallax */
+    height: 100%;
+    /* Création de l’effet */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parallax5 {
+    /* L’image du Parallax */
+    background-image: url("../img/background_smb3.jpg");
+    /* L’hauteur du Parallax */
+    height: 100%;
+    /* Création de l’effet */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parallax6 {
+    /* L’image du Parallax */
+    background-image: url("../img/background_sml1.png");
+    /* L’hauteur du Parallax */
+    height: 100%;
+    /* Création de l’effet */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parallax7 {
+    /* L’image du Parallax */
+    background-image: url("../img/background_smw.jpg");
+    /* L’hauteur du Parallax */
+    height: 100%;
+    /* Création de l’effet */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parallax8 {
+    /* L’image du Parallax */
+    background-image: url("../img/background_sml2.jpg");
+    /* L’hauteur du Parallax */
+    height: 100%;
+    /* Création de l’effet */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parallax9 {
+    /* L’image du Parallax */
+    background-image: url("../img/background_smk.png");
+    /* L’hauteur du Parallax */
+    height: 100%;
+    /* Création de l’effet */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parallax10 {
+    /* L’image du Parallax */
+    background-image: url("../img/background_yi.jpg");
+    /* L’hauteur du Parallax */
+    height: 100%;
+    /* Création de l’effet */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+
+.parallax11 {
+    /* L’image du Parallax */
+    background-image: url("../img/background_smrpg.png");
+    /* L’hauteur du Parallax */
+    height: 100%;
+    /* Création de l’effet */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+
+.parallax12 {
+    /* L’image du Parallax */
+    background-image: url("../img/background_sm64.jpg");
+    /* L’hauteur du Parallax */
+    height: 100%;
+    /* Création de l’effet */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.parallax13 {
+    /* L’image du Parallax */
+    background-image: url("../img/background_mk64.jpg");
+    /* L’hauteur du Parallax */
+    height: 100%;
+    /* Création de l’effet */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+footer
+{
+    background-color: black;
+}
